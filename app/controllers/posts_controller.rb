@@ -1,3 +1,6 @@
 class PostsController < ActiveRecord::Base
 
-end 
+  def show
+  end
+
+end
